@@ -3,6 +3,9 @@
   padding: 0;
   font-family: "Tomorrow", sans-serif;
 }
+body{
+  width: 100vw;
+}
 header {
   display: flex;
   flex-direction: column;
@@ -56,13 +59,14 @@ header nav ul li a:hover {
 	text-shadow: 2px 2px #E427DD;
 	}
 
+/* post bar */
 #post-bar {
   width: 100%;
   height: 99px;
   top: 80px;
   background-color: #3F3C3C;
 }
-#image1 {
+#user-post-pic {
   position: absolute;
   width: 52.17px;
   height: 52.58px;
@@ -71,7 +75,7 @@ header nav ul li a:hover {
   border-radius: 50px;
   box-shadow: 0px 4px 4px #000000;
 }
-#input-post {
+#input-user-post {
   position: absolute;
   width: 550px;
   height: 55px;
@@ -80,14 +84,14 @@ header nav ul li a:hover {
   padding: 5px 30px 5px 30px;
   box-shadow: 0px 4px 4px #000000;
 }
-#attachment {
+#user-post-attachment {
   position: absolute;
   width: 65px;
   height: 67px;
   right: 250px;
   top: 95px;
 }
-#emotes {
+#user-post-emotes {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -110,7 +114,7 @@ header nav ul li a:hover {
   background-color: #368ee6;
   }
 
-#nickname1 {
+#user-post-nickname {
   position: absolute;
   width: 100px;
   height: 12px;
@@ -132,7 +136,7 @@ header nav ul li a:hover {
   background-color: #F0E9E9;
   left: 3%;
 }
-#image2 {
+#user-timeline-image {
   position: absolute;
   width: 52.17px;
   height: 52.58px;
@@ -141,7 +145,7 @@ header nav ul li a:hover {
   border-radius: 50px;
   box-shadow: 0px 4px 4px #000000;
 }
-#nickname2 {
+#user-timeline-nickname {
   position: absolute;
   width: 66px;
   height: 14px;
@@ -154,7 +158,7 @@ header nav ul li a:hover {
   line-height: 14px;
   color: #000000;
 }
-#timeline-post {
+#timeline-user-post {
   position: absolute;
   width: 550px;
   height: 90px;
@@ -171,14 +175,14 @@ header nav ul li a:hover {
   padding: 5px 40px 5px 30px;
   color: #FFFFFF;
 }
-#like {
+#user-timeline-like-btn {
   position: absolute;
   left: 28.96%;
   right: 76.68%;
   top: 213px;
   
 }
-#date-post {
+#user-timeline-date-post {
   position: absolute;
   width: 130px;
   height: 18.37px;
@@ -194,7 +198,7 @@ header nav ul li a:hover {
 
   color: #000000;
 }
-#comments {
+#user-timeline-comments {
   position: absolute;
   width: 65px;
   height: 14px;
