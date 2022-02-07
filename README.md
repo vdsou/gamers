@@ -1,18 +1,18 @@
 ![](https://cdn.discordapp.com/attachments/792402272738476082/819975169786380328/logo.png)
 
-A social media for gamers. GG's!
+A social media for gamers. Show your friend games you like and make new ones based on your interests. Sign Up Now. GG's!
 
 # Page prototypes:
-## Home
-![](https://cdn.discordapp.com/attachments/792402272738476082/820003335167279185/home_1.png)
-## Friends
-![](https://cdn.discordapp.com/attachments/792402272738476082/819973409759952936/friends.png)
-## Games
-![](https://cdn.discordapp.com/attachments/792402272738476082/819973417033924659/games.png)
-## Sign up page
-![](https://cdn.discordapp.com/attachments/792402272738476082/819973419893260328/signup.png)
-## Log in page
-![](https://cdn.discordapp.com/attachments/792402272738476082/819973422565031966/login.png)
+- Home
+![](https://cdn.discordapp.com/attachments/822608313191497729/940285454811553852/home.png)
+- Friends
+![](https://cdn.discordapp.com/attachments/822608313191497729/940285810069090354/friends.png)
+- Games
+![](https://cdn.discordapp.com/attachments/822608313191497729/940286357731954708/games.png)
+- Sign up page
+![](https://cdn.discordapp.com/attachments/822608313191497729/940286613102153861/singup.png)
+- Log in page
+![](https://cdn.discordapp.com/attachments/822608313191497729/940286860532514826/signin.png)
 
 made with ❤️ by dor devs:
 - [Catarine Aguiar](https://github.com/catarineaguiar)
