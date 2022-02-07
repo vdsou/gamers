@@ -3,15 +3,15 @@
 A social media for gamers. Show your friend games you like and make new ones based on your interests. Sign Up Now. GG's!
 
 # Page prototypes:
-- Home
+## Home
 ![](https://cdn.discordapp.com/attachments/822608313191497729/940285454811553852/home.png)
-- Friends
+## Friends
 ![](https://cdn.discordapp.com/attachments/822608313191497729/940285810069090354/friends.png)
-- Games
+## Games
 ![](https://cdn.discordapp.com/attachments/822608313191497729/940286357731954708/games.png)
-- Sign up page
+## Sign up page
 ![](https://cdn.discordapp.com/attachments/822608313191497729/940286613102153861/singup.png)
-- Log in page
+## Log in page
 ![](https://cdn.discordapp.com/attachments/822608313191497729/940286860532514826/signin.png)
 
 made with ❤️ by dor devs:
